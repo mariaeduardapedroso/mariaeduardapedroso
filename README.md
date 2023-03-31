@@ -2,11 +2,11 @@
 
 ##
 
-<a href="https://github.com/lucasprad05/github-readme-stats">
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasprad05&show_icons=true&theme=codeSTACKr" />
+<a href="https://github.com/mariaeduardapedroso/github-readme-stats">
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=mariaeduardapedroso&show_icons=true&theme=codeSTACKr" />
 </a>
-<a href="https://github.com/lucasprad05/github-readme-stats">
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasprad05&layout=compact&theme=codeSTACKr" />
+<a href="https://github.com/mariaeduardapedroso/github-readme-stats">
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardapedroso&layout=compact&theme=codeSTACKr" />
 </a>
 
 ##
@@ -28,7 +28,7 @@
 
 ##
 
-- 💻 I’m currently working on Python
+- 💻 I’m currently working on HTML/CSS/REACT/JavaScript
 - 📚 I’m currently learning SQL
 
-![snake gif](https://github.com/lucasprad05/lucasprad05/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mariaeduardapedroso/mariaeduardapedroso/blob/output/github-contribution-grid-snake.gif)
