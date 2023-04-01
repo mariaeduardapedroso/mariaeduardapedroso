@@ -28,7 +28,7 @@
 
 ##
 
-- 💻 I’m currently working on HTML/CSS/REACT/JavaScript
+- 💻 I’m currently working on Python
 - 📚 I’m currently learning SQL
 
 ![snake gif](https://github.com/mariaeduardapedroso/mariaeduardapedroso/blob/output/github-contribution-grid-snake.gif)
